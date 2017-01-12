@@ -1,0 +1,20 @@
+h1 {
+  font-family: verdana;
+  text-align: center;
+  font-size: 3em;
+}
+
+.animals img{
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+.animals h1{
+  font-size: 2em;
+  text-align: left;
+}
+
+.animals p{
+  font-family: tahoma;
+}
