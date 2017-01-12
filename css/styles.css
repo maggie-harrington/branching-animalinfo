@@ -1,7 +1,13 @@
+#turtles, #snakes, #lizards, #frogs {
+  display: none;
+  /*background-color: red;*/
+}
+
 h1 {
   font-family: verdana;
   text-align: center;
   font-size: 3em;
+  color: green;
 }
 
 .animals img{
